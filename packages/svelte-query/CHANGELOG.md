@@ -1,5 +1,12 @@
 # @tanstack/svelte-query
 
+## 6.3.5
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @tanstack/query-core@5.104.5
+
 ## 6.3.4
 
 ### Patch Changes
